@@ -5,7 +5,7 @@
             "id": 1,
             "title": "Grand Villa",
             "price":15000,
-            "thumbnailUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4JdzJf_g32nqhPkZa4ujMlTZlOjDwg2xytiYKVka7u-_Yho"
+            "thumbnailUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4JdzJf_g32nqhPkZa4ujMlTZlOjDwg2xytiYKVka7u-_Yho",
             "description": "The house has two floors with 4 bedrooms, large social areas and a large kitchen. The area around the house is quiet and comfortable with both meadow and forest environment. Nearby in the farm forestry is an old mill pond with a small overnight cabin, barbecue area, and jetty where you can swim. There are berries and mushrooms for picking in the woods in season. Fishing with a fishing license is possible in nearby lakes. ",
             "isSmartphone": true,
             "rating": 5
@@ -15,7 +15,7 @@
             "id": 2,
             "title": "Vrindawan Villa",
             "price":15000,
-            "thumbnailUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4JdzJf_g32nqhPkZa4ujMlTZlOjDwg2xytiYKVka7u-_Yho"
+            "thumbnailUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4JdzJf_g32nqhPkZa4ujMlTZlOjDwg2xytiYKVka7u-_Yho",
             "description": "The house has two floors with 4 bedrooms, large social areas and a large kitchen. The area around the house is quiet and comfortable with both meadow and forest environment. Nearby in the farm forestry is an old mill pond with a small overnight cabin, barbecue area, and jetty where you can swim. There are berries and mushrooms for picking in the woods in season. Fishing with a fishing license is possible in nearby lakes. ",
             "isSmartphone": true,
             "rating": 5
